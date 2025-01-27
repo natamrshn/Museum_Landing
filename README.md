@@ -45,7 +45,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/museum-landing-page.git
+git clone https://github.com/natamrshn/Museum_Landing.git
 ```
 ## 2. Install dependences
 ```bash
@@ -59,4 +59,4 @@ npm start
 ## 🌐 Live Demo
 
 Check out the live demo of the project here:
-[**Museum Landing Page Demo**](https://github.com/natamrshn/Museum_Landing)
+[**Museum Landing Page Demo**]( https://natamrshn.github.io/Museum_Landing/)
